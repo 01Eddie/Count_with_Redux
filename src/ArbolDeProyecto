@@ -1,0 +1,15 @@
+src
+    components
+        Counter
+    store
+        counter
+            actions
+            reducers
+            types
+            selectors
+        user
+            actions
+            reducers
+            types
+            selectors
+        index
